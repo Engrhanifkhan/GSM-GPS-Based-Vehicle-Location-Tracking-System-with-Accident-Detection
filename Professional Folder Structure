@@ -1,0 +1,34 @@
+📦 GSM-GPS-Based-Vehicle-Location-Tracking-System-with-Accident-Detection
+
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── Documentation
+│   └── Hanif_Ullah_Research_Thesis.pdf
+│
+├── Source_Code
+│   ├── Vehicle_Tracking_System.ino
+│   ├── Libraries.txt
+│   └── Pin_Connections.md
+│
+├── Circuit_Diagram
+│   ├── Circuit.png
+│   └── Block_Diagram.png
+│
+├── Images
+│   ├── Project_Setup.jpg
+│   ├── Arduino.jpg
+│   ├── GPS_Module.jpg
+│   ├── GSM_Module.jpg
+│   ├── Accident_Detection.jpg
+│   ├── Google_Maps_Output.jpg
+│   └── Working_Model.jpg
+│
+├── Components
+│   └── Components_List.pdf
+│
+└── Results
+    ├── Output_Images
+    └── Testing_Report.pdf
